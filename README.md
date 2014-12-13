@@ -1,3 +1,4 @@
+Send message via Linux Terminal.
 Download the file into your root folder.Copy the file path and create a alias for the file name.Like if your file lies in 
 var/www/ then the alias will be as follow-
  alias msg="php /var/www/outbox_ninja.php"
